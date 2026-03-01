@@ -1,6 +1,6 @@
 # Bank Customer Churn Prediction - Machine Learning Project
 
-**[Test it here with your data]([https://banck-customer-churn-prediction---machine-learning-project-ubw.streamlit.app/])**
+**[Test it here with your data](https://banck-customer-churn-prediction---machine-learning-project-ubw.streamlit.app/)**
 
 ## 1. Project description
 
