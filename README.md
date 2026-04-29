@@ -7,7 +7,6 @@
 The goal of this project is to identify in a proactive manner the customers of a bank that might close their accounts. This goal is fueled by the fact that keeping existing clients is far cheaper than getting new ones, so the early identification of unhappy customers is critical.
 This project will take the following steps: data analysis ,feature engineering, model comparison and selection and finaly, deploying the best model on an interactive web aplication.
 
-Scopul acestui proiect este de a identifica în mod proactiv clienții care sunt predispuși să își închidă contul bancar (Customer Churn). Retenția clienților existenți este semnificativ mai ieftină decât atragerea unora noi, astfel încât identificarea timpurie a clienților nemulțumiți este critică pentru profitabilitatea oricărei bănci.
 
 
 ## 2. Technologies and libraries used
